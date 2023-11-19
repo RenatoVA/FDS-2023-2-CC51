@@ -137,6 +137,7 @@ Al observar los datos, se nota una correlación entre la tendencia en visitas y 
 Debido a la naturaleza de nuestro dataset no podemos predecir el número de visitas, likes o dislikes que pueda tener un video, pero podemos predecir que tan bien le va a ir al video. Esto es logrado con la categorización de las visitas, likes y dislikes estableciendo ciertos parámetros de evaluación para categorizar los datos antes numéricos dentro de los umbrales “Bajo”, “Medio”, “Alto” y “Muy Alto”.
 * ¿Los videos en tendencia son los que mayor cantidad de comentarios positivos reciben?
 Actualmente no podemos determinar si los videos en tendencia son los que reciben la mayor cantidad de comentarios positivos, ya que no disponemos de datos específicos sobre los comentarios (positivos o negativos) para realizar un análisis detallado. La ausencia de información detallada sobre los comentarios limita nuestra capacidad para evaluar la naturaleza de las interacciones en los videos en tendencia.
+
 Conclusiones del proyecto
 * Al revisar detalladamente cada fase del proyecto se considera que se puede mejorar la fase de preparación de los datos por que los datos numéricos tan grandes de 8 cifras fueron el verdadero problema para responder la pregunta 10.
 * Se podría optar por mejores algoritmos de machine learning para ambos modelos de regresión y clasificación, como regresión lineal, regresión logística, árboles de decisión, etc.
